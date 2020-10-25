@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5418939-238a-4ab5-ac70-467953a9bedc" name="Default Changelist" comment="" />
+    <list default="true" id="b5418939-238a-4ab5-ac70-467953a9bedc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeControllerV1.py" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeControllerV1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jLgfwqPSNLyNZlSnZu44Xedtcz" />
   <component name="ProjectViewState">
@@ -60,8 +66,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.VolumeControllerV1" />
       <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.VolumeControllerV1" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,13 +82,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2231" y="198" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603589125721">
+    <state x="2231" y="198" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603589146396">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2231" y="198" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603589125721" />
+    <state x="2231" y="198" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603589146396" />
     <state x="2557" y="310" key="FileChooserDialogImpl" timestamp="1603589087394">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2557" y="310" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603589087394" />
+    <state width="1496" height="208" key="GridCell.Tab.0.bottom" timestamp="1603589426838">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1496" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603589426838" />
+    <state width="1496" height="208" key="GridCell.Tab.0.center" timestamp="1603589426838">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1496" height="208" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603589426838" />
+    <state width="1496" height="208" key="GridCell.Tab.0.left" timestamp="1603589426838">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1496" height="208" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603589426838" />
+    <state width="1496" height="208" key="GridCell.Tab.0.right" timestamp="1603589426838">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1496" height="208" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603589426838" />
   </component>
 </project>

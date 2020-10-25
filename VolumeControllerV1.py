@@ -16,8 +16,7 @@ def makeSelection():
     root.title("VolumeController")
 
 
-    #d = Button(root, text="Refresh", command=None)
-    #d.pack()
+
     sessions = AudioUtilities.GetAllSessions()
     for session in sessions:
         volume = session._ctl.QueryInterface(ISimpleAudioVolume)
